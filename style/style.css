@@ -1,0 +1,32 @@
+* {
+    background-color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+ul li {
+    color: #0f0f0f;
+}
+
+ol li {
+    color: #0f0f0f;
+}
+
+a {
+    color: blue;
+}
+
+.description.header {
+    font-size: 40px;
+}
+
+.directions.header {
+    font-size: 40px;
+}
+
+.directions.list {
+    font-size: 15px;
+}
+
+.navigation {
+    font-size: 20px;
+}
